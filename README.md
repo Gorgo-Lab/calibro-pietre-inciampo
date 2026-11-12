@@ -4,6 +4,12 @@ Modello OpenSCAD parametrico di un calibro da stampare in 3D, per verificare che
 
 > **Stato: prototipo non ancora validato.** Misure, presa e impostazioni di stampa sono in fase di prova.
 
+<p align="center">
+  <img src="docs/vista.png" alt="Vista del calibro: blocco 96×96×100 mm con scritta incisa e due aperture per le dita sulla faccia superiore" width="48%">
+  <img src="docs/spaccato.png" alt="Spaccato del calibro: la presa a mezzo toro passa sotto il ponticello centrale" width="48%">
+</p>
+<p align="center"><em>A sinistra il calibro completo; a destra lo spaccato della presa a mezzo toro.</em></p>
+
 ## A cosa serve
 
 Le pietre d'inciampo sono cubi di circa 96 × 96 × 100 mm. Il calibro riproduce l'ingombro massimo della pietra e serve come controllo *passa / non passa*:
