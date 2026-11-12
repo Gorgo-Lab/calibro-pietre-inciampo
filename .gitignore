@@ -1,0 +1,8 @@
+# file generati dai sorgenti .scad
+*.stl
+*.3mf
+*.gcode
+
+# backup di OpenSCAD e degli editor
+*.bak
+*~
