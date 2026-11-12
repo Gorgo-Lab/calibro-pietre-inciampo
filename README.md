@@ -5,10 +5,11 @@ Modello OpenSCAD parametrico di un calibro da stampare in 3D, per verificare che
 > **Stato: prototipo non ancora validato.** Misure, presa e impostazioni di stampa sono in fase di prova.
 
 <p align="center">
-  <img src="docs/vista.png" alt="Vista del calibro: blocco 96×96×100 mm con scritta incisa e due aperture per le dita sulla faccia superiore" width="48%">
-  <img src="docs/spaccato.png" alt="Spaccato del calibro: la presa a mezzo toro passa sotto il ponticello centrale" width="48%">
+  <img src="docs/vista.png" alt="Vista del calibro: blocco 96×96×100 mm con scritta incisa e due aperture per le dita sulla faccia superiore" width="32%">
+  <img src="docs/spaccato-anello.png" alt="Spaccato lungo l'anello: la presa a mezzo toro scende dalle due aperture e passa sotto il ponticello centrale" width="32%">
+  <img src="docs/spaccato-ponticello.png" alt="Spaccato trasversale al centro del ponticello: la sezione tonda del passaggio forma un arco autoportante" width="32%">
 </p>
-<p align="center"><em>A sinistra il calibro completo; a destra lo spaccato della presa a mezzo toro.</em></p>
+<p align="center"><em>Da sinistra: il calibro completo; spaccato lungo l'anello della presa; spaccato trasversale al centro del ponticello, con la sezione tonda del passaggio.</em></p>
 
 ## A cosa serve
 
